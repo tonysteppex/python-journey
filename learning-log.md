@@ -11,5 +11,9 @@ taught about it after starring at the code for a while.
 
 Day 2
 #String enables the storing of text in a variable.
-# strip removes spaces at the begining and end, while .title capitalizes first letters of a Text.
-# added title because i wanted to see how it worked
+#strip removes spaces at the begining and end, while .title capitalizes first letters of a Text.
+#added title because i wanted to see how it worked
+
+loops exercise
+#range function used to specify looping duration
+#break, ends the loop.
