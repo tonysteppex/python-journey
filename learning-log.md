@@ -62,3 +62,5 @@ are files of code you can use. modules(features built in it for reuse of code).
 9. sys.argv[]
 10. packages: 3rd party library for more functions.(pypi.org) cowsay (For now, use %pip install inside your notebooks when installing packages for notebook exercises.)
 
+11. App Prog Interface(API): 3rd party services that we write that connect to the service. requests lib allows for web request like a browser;pypi.org/project/requests.
+12. sys.exit() to terminate the whole program.
